@@ -147,3 +147,37 @@ We want to do everything can to help you be successful while working on your con
 - [Optimism Documentation](https://community.optimism.io)
 - [OP Stack Documentation](https://stack.optimism.io)
 - [Optimism Help Center](https://help.optimism.io)
+for projects that support one of the Optimism Collective [Intents](https://gov.optimism.io/t/collective-intents/5874)
+- [Optimism Grants Council](https://foul-porch-0eb.notion.site/Optimism-Grants-Council-090bb648d1854136b9630c608da7a8bc) (begins July 8th 2023)
+  - Focused on "builders & novel usecases" and "growth experiments"
+  - Generally small (sub 50k OP) grants
+- Partner Fund (ongoing)
+  - Reach out to the Optimism Foundation team if you feel the above mechanisms don't fit your needs
+
+## Support and Additional Resources
+
+We want to do everything can to help you be successful while working on your contribution. Here you'll find various resources and communities that may help you complete a project. Please also feel free to ask for support directly in the comments of the GitHub issue that corresponds to the project that you're working on. Members of the Optimism community check these comments daily to provide support.
+
+### Communitiesfor projects that support one of the Optimism Collective [Intents](https://gov.optimism.io/t/collective-intents/5874)
+- [Optimism Grants Council](https://foul-porch-0eb.notion.site/Optimism-Grants-Council-090bb648d1854136b9630c608da7a8bc) (begins July 8th 2023)
+  - Focused on "builders & novel usecases" and "growth experiments"
+  - Generally small (sub 50k OP) grants
+- Partner Fund (ongoing)
+  - Reach out to the Optimism Foundation team if you feel the above mechanisms don't fit your needs
+
+## Support and Additional Resources
+
+We want to do everything can to help you be successful while working on your contribution. Here you'll find various resources and communities that may help you complete a project. Please also feel free to ask for support directly in the comments of the GitHub issue that corresponds to the project that you're working on. Members of the Optimism community check these comments daily to provide support.
+
+### Communitiesfor projects that support one of the Optimism Collective [Intents](https://gov.optimism.io/t/collective-intents/5874)
+- [Optimism Grants Council](https://foul-porch-0eb.notion.site/Optimism-Grants-Council-090bb648d1854136b9630c608da7a8bc) (begins July 8th 2023)
+  - Focused on "builders & novel usecases" and "growth experiments"
+  - Generally small (sub 50k OP) grants
+- Partner Fund (ongoing)
+  - Reach out to the Optimism Foundation team if you feel the above mechanisms don't fit your needs
+
+## Support and Additional Resources
+
+We want to do everything can to help you be successful while working on your contribution. Here you'll find various resources and communities that may help you complete a project. Please also feel free to ask for support directly in the comments of the GitHub issue that corresponds to the project that you're working on. Members of the Optimism community check these comments daily to provide support.
+
+### Communities
